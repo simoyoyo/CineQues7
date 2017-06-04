@@ -87,7 +87,7 @@ $( document ).ready(function() {
 
     var curActive = $('.side-nav').find('.is-active'),
         curPos = $('.side-nav').children().index(curActive),
-        lastItem = $('.side-nav').children().length - 1,
+        lastItem = curPos + 1,
         nextPos = 0;
 
     if (param.type === "swipeup" || param.keyCode === 40 || param > 0) {
