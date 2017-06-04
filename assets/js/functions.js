@@ -56,9 +56,10 @@ $( document ).ready(function() {
     var curActive = $('.side-nav').find('.is-active'),
         curPos = $('.side-nav').children().index(curActive),
         lastItem = $('.side-nav').children().length - 1,
-        nextPos = curPos + 1;
+        nextPos = $('.side-nav').children().length - 2;
+//        nextPos = curPos + 1;
 
-    updateNavs(lastItem);
+    updateNavs(nextPos);
     updateContent(curPos, nextPos, lastItem);
 
   });
