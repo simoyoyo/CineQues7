@@ -205,10 +205,10 @@ th {
   padding: 0; }
 
 ::selection {
-  background: #FFF498; }
+  background: #2F2F2F; }
 
 ::-moz-selection {
-  background: #FFF498; }
+  background: #2F2F2F; }
 
 img::selection {
   background: transparent; }
@@ -217,10 +217,10 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #FFF498; }
+  -webkit-tap-highlight-color: #2F2F2F; }
 
 body {
-  background-color: #001040;/*#0c0c0c;*/
+  background-color: #82C0FF;/*#0c0c0c;*/
   font-size: 14px;
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -383,7 +383,7 @@ body {
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #620042;
+    background-color: #2F2F2F;
     border: none;
     opacity: 0;
     visibility: hidden;
@@ -443,7 +443,7 @@ body {
   .side-nav li:nth-child(5)::before {
     content: "05"; }
   .side-nav li.is-active {
-    color: #620042;
+    color: #2F2F2F;
     transition: color 0.4s ease-in-out; }
     .side-nav li.is-active span {
       opacity: 1;
@@ -475,7 +475,7 @@ body {
       left: -15px;
       right: 0;
       height: 2px;
-      background-color: #E0F1FF; }
+      background-color: #2F2F2F; }
     .intro--banner h1 {
       position: relative;
       font-size: 68px;
@@ -495,7 +495,7 @@ body {
         left: 23px;
         right: 0;
         height: 100%;
-        background-color: #620042;
+        background-color: #2F2F2F;
         z-index: -1;
         transition: left 0.2s ease-in-out; }
       .intro--banner button:hover .btn-background {
@@ -520,7 +520,7 @@ body {
     .intro--options > a {
       max-width: 250px;
       text-decoration: none;
-      color: #E0F1FF;
+      color: #2F2F2F;
       transition: color 0.2s ease-in-out; }
       .intro--options > a:hover {
         color: #fff; }
@@ -656,7 +656,7 @@ body {
       height: 50px;
       align-items: center;
       justify-content: center;
-      background-color: #E0F1FF;
+      background-color: #2F2F2F;
       border-radius: 50%;
       cursor: pointer; }
       .work--lockup .slider--next svg,
@@ -716,7 +716,7 @@ body {
       top: 20px;
       left: 200px;
       transform: rotate(-25deg);
-      border: 5px solid #620042;
+      border: 5px solid #2F2F2F;
       border-right-color: transparent;
       border-bottom-color: transparent; }
     .about--banner::after {
@@ -727,10 +727,10 @@ body {
       transform: rotate(45deg);
       width: 10px;
       height: 10px;
-      background-color: #620042; }
+      background-color: #2F2F2F; }
     .about--banner h2 {
       position: relative;
-      margin-top: 35px;
+      margin-top: 10px;
       font-size: 68px;
       font-weight: 900;
       line-height: 1;
@@ -741,8 +741,8 @@ body {
         top: 60px;
         left: 268px;
         width: 30px;
-        height: 30px;
-        background-color: #620042;
+        height: 0px;
+        background-color: #2F2F2F;
         border-radius: 50%; }
       .about--banner h2::after {
         content: "";
@@ -750,8 +750,8 @@ body {
         top: 255px;
         left: 255px;
         width: 10px;
-        height: 10px;
-        background-color: #620042; }
+        height: -10px;
+        background-color: #2F2F2F; }
     .about--banner a {
       padding: 5px 17px 5px 0;
       text-decoration: none;
@@ -769,8 +769,8 @@ body {
         transition: left 0.2s ease-in-out; }
     .about--banner img {
       position: absolute;
-      bottom: -90px;
-      right: -12px; }
+      bottom: -120px;
+      right: -170px; }
   .about--options {
     display: flex;
     max-width: 600px;
@@ -780,11 +780,11 @@ body {
     list-style: none; }
     .about--options > a {
       position: relative;
-      width: 150px;
-      height: 75px;
+      width: 250px;
+      height: 80px;
       text-decoration: none;
-      color: #fff;
-      border: 10px solid #620042;
+      color: #2F2F2F;
+      border: 8px solid #0080FF;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat; }
@@ -795,12 +795,13 @@ body {
       .about--options > a:nth-child(3) {
         background-image: url("../img/about-history.jpg"); }
       .about--options > a:hover h3 {
-        bottom: -50px; }
+        bottom: -48px; 
+		color: #FFF;}
     .about--options h3 {
       position: absolute;
-      bottom: -38px;
-      left: 10px;
-      font-size: 16px;
+      bottom: -24px;
+      left: 2px;
+      font-size: 22px;
       text-transform: uppercase;
       transition: bottom 0.2s ease-in-out, left 0.2s ease-in-out; }
 
@@ -896,7 +897,7 @@ body {
           background-color: #ea4c89; }
         .contact--lockup .modal--options li:nth-child(3) {
           margin-bottom: 0;
-          background-color: #620042;
+          background-color: #2F2F2F;
           text-transform: uppercase; }
         .contact--lockup .modal--options a {
           display: block;
@@ -936,7 +937,7 @@ body {
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #620042;
+    background-color: #2F2F2F;
     border: none;
     border-radius: 0; }
     .work-request input[type="submit"]:focus {
@@ -976,8 +977,8 @@ body {
     .work-request--options input[type="checkbox"] {
       display: none; }
       .work-request--options input[type="checkbox"]:checked + label {
-        background-color: #620042;
-        border-color: #620042; }
+        background-color: #2F2F2F;
+        border-color: #2F2F2F; }
         .work-request--options input[type="checkbox"]:checked + label svg {
           width: 15px; }
   .work-request--information {
@@ -1055,7 +1056,7 @@ body {
   position: relative;
   transform: translateZ(0) translateX(0) rotateY(0deg);
   min-height: 100%;
-  outline: 30px solid #620042;
+  outline: 30px solid #2F2F2F;
   transition: transform 0.4s; }
 
 .modalview .container {
@@ -1070,7 +1071,7 @@ body {
   transition: transform 0.4s; }
 .effect-rotate-left--animate .container {
   transform: translateZ(-1800px) translateX(-50%) rotateY(45deg);
-  outline: 30px solid #620042; }
+  outline: 30px solid #2F2F2F; }
 
 .outer-nav {
   position: absolute;
@@ -1118,7 +1119,7 @@ body {
       width: 110%;
       height: 15px;
       opacity: 0;
-      background-color: #620042; }
+      background-color: #2F2F2F; }
     .outer-nav > li.is-active::before {
       opacity: 1; }
     @media (max-width: 767px) {

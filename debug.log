@@ -1,0 +1,294 @@
+[0605/213142.773:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/213142.837:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/213142.837:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/213806.390:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/213806.459:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/213806.459:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/213826.722:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/213826.785:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/213826.785:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/213856.468:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/213856.653:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/213856.653:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/213914.609:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/213914.672:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/213914.688:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214004.595:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214004.679:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214004.679:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214328.207:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214328.276:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/214328.276:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214343.140:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214343.187:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/214343.187:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214441.923:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214442.007:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214442.007:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214610.023:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214610.092:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/214610.092:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214622.536:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214622.616:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214622.616:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214638.103:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214638.172:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214638.172:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214707.856:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214708.104:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214708.104:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214719.060:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214719.129:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214719.129:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214837.413:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214837.495:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214837.495:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214913.026:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214913.095:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214913.095:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/214937.231:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/214937.479:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/214937.479:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/215107.966:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/215108.044:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/215108.044:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/215132.202:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/215132.286:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/215132.286:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/215740.654:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/215740.717:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/215740.717:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/215757.393:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/215757.457:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/215757.457:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/215845.076:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/215845.160:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/215845.160:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220207.394:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220207.463:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/220207.463:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220236.376:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220236.565:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220236.565:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220336.869:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220336.947:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220336.947:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220431.625:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220431.703:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220431.703:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220455.279:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220455.511:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220455.511:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220624.309:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220624.557:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/220624.557:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220642.133:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220642.195:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220642.195:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220658.617:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220658.686:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220658.686:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220743.339:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220743.401:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220743.401:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220800.107:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220800.176:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220800.176:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220819.823:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220819.904:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220819.905:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220855.074:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220855.158:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220855.158:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220904.961:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220905.030:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220905.030:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220926.673:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220926.758:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220926.758:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/220940.926:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/220941.004:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/220941.004:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221005.630:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221005.699:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/221005.699:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221015.634:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221015.703:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221015.703:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221109.289:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221109.358:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221109.358:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221159.448:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221159.686:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221159.686:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221216.682:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221216.751:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221216.751:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221320.362:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221320.428:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221320.428:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221421.621:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221421.685:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/221421.685:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221511.978:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221512.226:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221512.226:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221535.414:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221535.494:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221535.494:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221613.092:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221613.155:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/221613.155:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221625.069:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221625.147:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221625.147:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/221752.846:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/221753.078:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/221753.078:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222022.676:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222022.760:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/222022.760:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222107.336:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222107.405:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/222107.405:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222118.506:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222118.591:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222118.591:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222149.263:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222149.517:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222149.517:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222212.842:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222212.904:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/222212.904:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222244.793:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222244.855:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222244.855:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222340.024:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222340.268:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222340.269:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222411.364:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222411.442:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222411.442:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222458.730:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222458.799:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222458.799:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222537.340:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222537.425:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222537.425:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222600.287:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222600.372:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222600.372:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222733.024:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222733.278:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222733.278:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222803.335:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222803.567:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/222803.567:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222907.422:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222907.491:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/222907.491:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/222945.903:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/222946.156:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/222946.156:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223127.305:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223127.388:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/223127.388:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223141.367:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223141.436:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223141.436:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223151.540:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223151.604:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/223151.604:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223214.010:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223214.257:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223214.257:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223253.248:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223253.332:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223253.332:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223311.184:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223311.369:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223311.369:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223337.093:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223337.162:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223337.162:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223621.326:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223621.404:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223621.404:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223927.914:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223927.998:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223927.998:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/223949.064:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/223949.149:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/223949.149:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224006.274:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224006.343:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224006.343:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224030.189:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224030.251:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224030.251:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224048.206:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224048.268:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224048.268:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224057.322:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224057.392:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224057.393:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224138.442:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224138.526:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224138.526:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224156.216:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224156.285:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224156.285:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224213.934:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224214.003:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224214.003:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224318.513:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224318.767:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224318.767:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224334.953:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224335.038:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224335.038:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224406.533:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224406.618:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224406.618:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224431.077:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224431.146:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224431.146:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224547.546:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224547.813:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224547.814:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224609.197:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224609.266:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224609.266:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224629.312:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224629.443:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224629.443:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224644.090:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224644.344:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224644.344:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224700.224:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224700.293:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/224700.293:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224725.625:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224725.692:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224725.692:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224742.800:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224742.869:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224742.869:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/224930.775:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/224931.027:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/224931.028:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/225006.271:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/225006.340:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/225006.340:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/225015.636:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/225015.720:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/225015.720:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/225030.502:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/225030.582:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/225030.582:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/225045.579:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/225045.658:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
+[0605/225045.658:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0605/225109.738:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0605/225109.969:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0605/225109.969:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
