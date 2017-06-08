@@ -759,7 +759,7 @@ body {
     .about--banner img {
       position: absolute;
       bottom: -90px;
-      right: -12px; }
+      right: -200px; }
   .about--options {
     display: flex;
     max-width: 600px;
