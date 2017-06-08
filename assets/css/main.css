@@ -720,6 +720,7 @@ body {
     .about--banner h2 {
       position: relative;
       margin-top: 10px;
+      margin-bottom: 0px;
       font-size: 68px;
       font-weight: 900;
       line-height: 1;
