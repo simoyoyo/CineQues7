@@ -310,3 +310,9 @@
 [0608/205458.062:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
 [0608/205458.132:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: Impossibile trovare il file specificato. (0x2)
 [0608/205458.132:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0608/211914.486:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0608/211914.563:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0608/211914.563:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0608/212738.998:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0608/212739.061:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0608/212739.061:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
