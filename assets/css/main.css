@@ -758,10 +758,10 @@ body {
         transition: left 0.2s ease-in-out; }
     .about--banner img {
       position: absolute; }
-      .about--banner img #coppa {
+      .about--banner img#coppa {
         bottom: -440px;
         right: -600px; }
-      .about--banner img #lista {
+      .about--banner img#lista {
         bottom: -120px;
         right: -170px; }
   .about--options {
