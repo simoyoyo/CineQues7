@@ -220,7 +220,7 @@ body {
   -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background-color: #E01F25;
+  background-color: #C20041;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -287,7 +287,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #00204F;
+  background-color: #E01F25;
   z-index: 12; }
   .device-notification--logo {
     display: flex;
@@ -867,7 +867,7 @@ body {
     .contact--lockup .modal {
       padding: 45px 45px;
       text-align: center;
-      background-color: #00204F;
+      background-color: #E01F25;
       box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75); }
       .contact--lockup .modal--information p,
       .contact--lockup .modal--information a {
@@ -998,7 +998,7 @@ body {
       .work-request--information input[type="text"]:focus,
       .work-request--information input[type="email"]:focus {
         outline: none;
-        background-color: #00204F; }
+        background-color: #E01F25; }
     .work-request--information label {
       position: absolute;
       top: 0;
@@ -1052,7 +1052,7 @@ body {
   min-height: 100%;
   outline: 30px solid #2F2F2F;
   transition: transform 0.4s;
-  background-color: #00204F; }
+  background-color: #E01F25; }
 
 .modalview .container {
   position: absolute;
