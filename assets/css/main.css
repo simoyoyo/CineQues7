@@ -220,7 +220,7 @@ body {
   -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background-color: #200042;
+  background-color: #AD310B;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -1044,13 +1044,6 @@ body {
   .perspective--modalview {
     position: fixed;
     perspective: 1500px; }
-    .perspective--modalview .container {
-      background-color: #AD310B;
-      -webkit-transition: background-color 2000ms ease-out;
-      -moz-transition: background-color 2000ms ease-out;
-      -o-transition: background-color 2000ms ease-out;
-      -ms-transition: background-color 2000ms ease-out;
-      transition: background-color 2000ms ease-out; }
 
 .container {
   position: relative;
@@ -1058,11 +1051,7 @@ body {
   min-height: 100%;
   outline: 30px solid #FF8080;
   transition: transform 0.4s;
-  -webkit-transition: background-color 2000ms ease-out;
-  -moz-transition: background-color 2000ms ease-out;
-  -o-transition: background-color 2000ms ease-out;
-  -ms-transition: background-color 2000ms ease-out;
-  transition: background-color 2000ms ease-out; }
+  background-color: #200042; }
 
 .modalview .container {
   position: absolute;
