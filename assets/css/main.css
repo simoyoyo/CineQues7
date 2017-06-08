@@ -220,7 +220,7 @@ body {
   -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background-color: #0c0c0c;
+  background-color: #FF4070;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -287,7 +287,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #0c0c0c;
+  background-color: #FF4070;
   z-index: 12; }
   .device-notification--logo {
     display: flex;
@@ -372,7 +372,7 @@ body {
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #2F2F2F;
+    background-color: #200042;
     border: none;
     opacity: 0;
     visibility: hidden;
@@ -432,7 +432,7 @@ body {
   .side-nav li:nth-child(5)::before {
     content: "05"; }
   .side-nav li.is-active {
-    color: #2F2F2F;
+    color: #200042;
     transition: color 0.4s ease-in-out; }
     .side-nav li.is-active span {
       opacity: 1;
@@ -484,7 +484,7 @@ body {
         left: 23px;
         right: 0;
         height: 100%;
-        background-color: #2F2F2F;
+        background-color: #200042;
         z-index: -1;
         transition: left 0.2s ease-in-out; }
       .intro--banner button:hover .btn-background {
@@ -705,7 +705,7 @@ body {
       top: 20px;
       left: 200px;
       transform: rotate(-25deg);
-      border: 5px solid #2F2F2F;
+      border: 5px solid #200042;
       border-right-color: transparent;
       border-bottom-color: transparent; }
     .about--banner::after {
@@ -716,7 +716,7 @@ body {
       transform: rotate(45deg);
       width: 10px;
       height: 10px;
-      background-color: #2F2F2F; }
+      background-color: #200042; }
     .about--banner h2 {
       position: relative;
       margin-top: 35px;
@@ -731,7 +731,7 @@ body {
         left: 268px;
         width: 30px;
         height: 30px;
-        background-color: #2F2F2F;
+        background-color: #200042;
         border-radius: 50%; }
       .about--banner h2::after {
         content: "";
@@ -740,7 +740,7 @@ body {
         left: 255px;
         width: 10px;
         height: 10px;
-        background-color: #2F2F2F; }
+        background-color: #200042; }
     .about--banner a {
       padding: 5px 17px 5px 0;
       text-decoration: none;
@@ -758,8 +758,8 @@ body {
         transition: left 0.2s ease-in-out; }
     .about--banner img {
       position: absolute;
-      bottom: -90px;
-      right: -200px; }
+      bottom: -400px;
+      right: -600px; }
   .about--options {
     display: flex;
     max-width: 600px;
@@ -773,7 +773,7 @@ body {
       height: 75px;
       text-decoration: none;
       color: #fff;
-      border: 10px solid #2F2F2F;
+      border: 10px solid #200042;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat; }
@@ -861,7 +861,7 @@ body {
     .contact--lockup .modal {
       padding: 45px 45px;
       text-align: center;
-      background-color: #0c0c0c;
+      background-color: #FF4070;
       box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75); }
       .contact--lockup .modal--information p,
       .contact--lockup .modal--information a {
@@ -885,7 +885,7 @@ body {
           background-color: #ea4c89; }
         .contact--lockup .modal--options li:nth-child(3) {
           margin-bottom: 0;
-          background-color: #2F2F2F;
+          background-color: #200042;
           text-transform: uppercase; }
         .contact--lockup .modal--options a {
           display: block;
@@ -925,7 +925,7 @@ body {
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: #2F2F2F;
+    background-color: #200042;
     border: none;
     border-radius: 0; }
     .work-request input[type="submit"]:focus {
@@ -965,8 +965,8 @@ body {
     .work-request--options input[type="checkbox"] {
       display: none; }
       .work-request--options input[type="checkbox"]:checked + label {
-        background-color: #2F2F2F;
-        border-color: #2F2F2F; }
+        background-color: #200042;
+        border-color: #200042; }
         .work-request--options input[type="checkbox"]:checked + label svg {
           width: 15px; }
   .work-request--information {
@@ -992,7 +992,7 @@ body {
       .work-request--information input[type="text"]:focus,
       .work-request--information input[type="email"]:focus {
         outline: none;
-        background-color: #0c0c0c; }
+        background-color: #FF4070; }
     .work-request--information label {
       position: absolute;
       top: 0;
@@ -1044,7 +1044,7 @@ body {
   position: relative;
   transform: translateZ(0) translateX(0) rotateY(0deg);
   min-height: 100%;
-  outline: 30px solid #2F2F2F;
+  outline: 30px solid #200042;
   transition: transform 0.4s; }
 
 .modalview .container {
@@ -1059,7 +1059,7 @@ body {
   transition: transform 0.4s; }
 .effect-rotate-left--animate .container {
   transform: translateZ(-1800px) translateX(-50%) rotateY(45deg);
-  outline: 30px solid #2F2F2F; }
+  outline: 30px solid #200042; }
 
 .outer-nav {
   position: absolute;
@@ -1107,7 +1107,7 @@ body {
       width: 110%;
       height: 15px;
       opacity: 0;
-      background-color: #2F2F2F; }
+      background-color: #200042; }
     .outer-nav > li.is-active::before {
       opacity: 1; }
     @media (max-width: 767px) {
