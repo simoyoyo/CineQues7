@@ -418,7 +418,7 @@ body {
       position: absolute;
       top: 3px;
       left: 10px;
-      color: #555;
+      color: #fff;
       font-size: 14px;
       font-weight: 300; }
   .side-nav li:nth-child(1)::before {
