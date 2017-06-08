@@ -397,3 +397,6 @@
 [0609/000127.820:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
 [0609/000127.887:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
 [0609/000127.887:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0609/001216.874:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accesso negato. (0x5)
+[0609/001216.939:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Pipe terminata. (0x6D)
+[0609/001216.940:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
