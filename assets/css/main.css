@@ -205,10 +205,10 @@ th {
   padding: 0; }
 
 ::selection {
-  background: #2F2F2F; }
+  background: #FFF498; }
 
 ::-moz-selection {
-  background: #2F2F2F; }
+  background: #FFF498; }
 
 img::selection {
   background: transparent; }
@@ -217,10 +217,10 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #2F2F2F; }
+  -webkit-tap-highlight-color: #FFF498; }
 
 body {
-  background-color: #82C0FF;/*#0c0c0c;*/
+  background-color: #0c0c0c;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -304,18 +304,7 @@ body {
     margin: 30px 0 0 0;
     font-weight: 700;
     text-align: center; }
-  @media (max-width: 767px) and (min-width: 601px) and (max-height: 680px) {
-    .device-notification {
-      display: flex; } }
-  @media (max-width: 600px) and (min-width: 480px) and (max-height: 580px) {
-    .device-notification {
-      display: flex; } }
-  @media (max-width: 736px) and (min-width: 360px) and (orientation: landscape) {
-    .device-notification {
-      display: flex; } }
-@media(max-width: 359px) {
-  .device-notification {
-    display: flex; } }
+
 .section {
   opacity: 0;
   visibility: hidden;
@@ -475,7 +464,7 @@ body {
       left: -15px;
       right: 0;
       height: 2px;
-      background-color: #2F2F2F; }
+      background-color: #E0F1FF; }
     .intro--banner h1 {
       position: relative;
       font-size: 68px;
@@ -520,7 +509,7 @@ body {
     .intro--options > a {
       max-width: 250px;
       text-decoration: none;
-      color: #2F2F2F;
+      color: #E0F1FF;
       transition: color 0.2s ease-in-out; }
       .intro--options > a:hover {
         color: #fff; }
@@ -656,7 +645,7 @@ body {
       height: 50px;
       align-items: center;
       justify-content: center;
-      background-color: #2F2F2F;
+      background-color: #E0F1FF;
       border-radius: 50%;
       cursor: pointer; }
       .work--lockup .slider--next svg,
@@ -730,7 +719,7 @@ body {
       background-color: #2F2F2F; }
     .about--banner h2 {
       position: relative;
-      margin-top: 10px;
+      margin-top: 35px;
       font-size: 68px;
       font-weight: 900;
       line-height: 1;
@@ -741,7 +730,7 @@ body {
         top: 60px;
         left: 268px;
         width: 30px;
-        height: 0px;
+        height: 30px;
         background-color: #2F2F2F;
         border-radius: 50%; }
       .about--banner h2::after {
@@ -750,7 +739,7 @@ body {
         top: 255px;
         left: 255px;
         width: 10px;
-        height: -10px;
+        height: 10px;
         background-color: #2F2F2F; }
     .about--banner a {
       padding: 5px 17px 5px 0;
@@ -769,8 +758,8 @@ body {
         transition: left 0.2s ease-in-out; }
     .about--banner img {
       position: absolute;
-      bottom: -120px;
-      right: -170px; }
+      bottom: -90px;
+      right: -12px; }
   .about--options {
     display: flex;
     max-width: 600px;
@@ -780,28 +769,27 @@ body {
     list-style: none; }
     .about--options > a {
       position: relative;
-      width: 250px;
-      height: 80px;
+      width: 100px;
+      height: 75px;
       text-decoration: none;
-      color: #2F2F2F;
-      border: 8px solid #0080FF;
+      color: #fff;
+      border: 10px solid #2F2F2F;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat; }
       .about--options > a:nth-child(1) {
         background-image: url("../img/about-winners.jpg"); }
       .about--options > a:nth-child(2) {
-        background-image: url("../img/about-philosophy.jpg"); }
+        background-image: url("../img/f_group.png"); }
       .about--options > a:nth-child(3) {
-        background-image: url("../img/about-history.jpg"); }
+        background-image: url("../img/f_group.png"); }
       .about--options > a:hover h3 {
-        bottom: -48px; 
-		color: #FFF;}
+        bottom: -50px; }
     .about--options h3 {
       position: absolute;
-      bottom: -24px;
-      left: 2px;
-      font-size: 22px;
+      bottom: -38px;
+      left: 10px;
+      font-size: 16px;
       text-transform: uppercase;
       transition: bottom 0.2s ease-in-out, left 0.2s ease-in-out; }
 
