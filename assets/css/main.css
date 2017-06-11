@@ -1132,4 +1132,160 @@ body {
   .outer-nav li.is-vis:nth-child(5) {
     transition-delay: 0.16s; }
 
+.about_class {
+  position: relative;
+  display: flex;
+  width: 900px;
+  max-width: 75%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto; }
+  @media (max-width: 1180px) {
+    .about_class {
+      max-width: 100%; } }
+  .about_class--banner {
+    position: relative;
+    height: 475px; }
+    .about_class--banner::before {
+      content: "";
+      position: absolute;
+      top: 20px;
+      left: 200px;
+      transform: rotate(-25deg);
+      border: 5px solid #990041;
+      border-right-color: transparent;
+      border-bottom-color: transparent; }
+    .about_class--banner::after {
+      content: "";
+      position: absolute;
+      top: 75px;
+      left: 400px;
+      transform: rotate(45deg);
+      width: 10px;
+      height: 10px;
+      background-color: #990041; }
+    .about_class--banner h2 {
+      position: relative;
+      margin-top: 50px;
+      margin-bottom: 0px;
+      font-size: 68px;
+      font-weight: 900;
+      line-height: 1;
+      z-index: 1; }
+      .about_class--banner h2::before {
+        content: "";
+        position: absolute;
+        top: 60px;
+        left: 268px;
+        width: 30px;
+        height: 0px;
+        background-color: #990041;
+        border-radius: 50%; }
+      .about_class--banner h2::after {
+        content: "";
+        position: absolute;
+        top: 255px;
+        left: 255px;
+        width: 10px;
+        height: -10px;
+        background-color: #990041; }
+    .about_class--banner a {
+      padding: 5px 17px 5px 0;
+      text-decoration: none;
+      color: #fff;
+      font-weight: 700;
+      text-transform: uppercase;
+      background-color: transparent; }
+      .about_class--banner a:hover svg {
+        left: 10px; }
+      .about_class--banner a svg {
+        position: relative;
+        left: 5px;
+        width: 15px;
+        fill: #fff;
+        transition: left 0.2s ease-in-out; }
+    .about_class--banner img {
+      position: absolute; }
+      .about_class--banner img#coppa {
+        bottom: -440px;
+        right: -600px; }
+      .about_class--banner img#lista {
+        bottom: -415px;
+        right: -270px; }
+  .about_class--options {
+    display: flex;
+    max-width: 600px;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+    .about_class--options > a {
+      position: relative;
+      width: 250px;
+      height: 80px;
+      text-decoration: none;
+      color: #fff;
+      border: 8px solid #990041;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat; }
+      .about_class--options > a:nth-child(1) {
+        background-image: url("../img/about-winners.jpg"); }
+      .about_class--options > a:nth-child(2) {
+        background-image: url("../img/f_group.png"); }
+      .about_class--options > a:nth-child(3) {
+        background-image: url("../img/f_group.png"); }
+      .about_class--options > a:hover h3 {
+        bottom: -48px;
+        color: #fff; }
+    .about_class--options h3 {
+      position: absolute;
+      bottom: -38px;
+      left: 10px;
+      font-size: 16px;
+      text-transform: uppercase;
+      transition: bottom 0.2s ease-in-out, left 0.2s ease-in-out; }
+
+@media (max-width: 767px) {
+  .about_class--banner {
+    height: 305px; }
+    .about_class--banner::before {
+      top: 0;
+      left: 125px; }
+    .about_class--banner::after {
+      top: 35px;
+      left: 260px; }
+    .about_class--banner h2 {
+      margin-top: 10px;
+      font-size: 44px; }
+      .about_class--banner h2::before {
+        top: 28px;
+        left: 168px; }
+      .about_class--banner h2::after {
+        top: 163px;
+        left: 163px; }
+    .about_class--banner img {
+      width: 315px; } }
+@media (max-width: 600px) {
+  .about_class--banner {
+    height: auto; }
+    .about_class--banner::before {
+      left: 155px; }
+    .about_class--banner::after {
+      left: 310px; }
+    .about_class--banner h2 {
+      margin-top: 0;
+      font-size: 55px; }
+      .about_class--banner h2::before {
+        top: 43px;
+        left: 214px; }
+      .about_class--banner h2::after {
+        top: 205px;
+        left: 205px; }
+    .about_class--banner img {
+      display: none; }
+  .about_class--options {
+    display: none; } }
+
 /*# sourceMappingURL=main.css.map */
