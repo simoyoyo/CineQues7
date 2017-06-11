@@ -1197,14 +1197,13 @@ body {
       font-weight: 700;
       text-transform: uppercase;
       background-color: transparent; }
-      .about_class--banner a:hover svg {
-        left: 10px; }
-      .about_class--banner a svg {
-        position: relative;
-        left: 5px;
-        width: 15px;
-        fill: #fff;
-        transition: left 0.2s ease-in-out; }
+    .about_class--banner h3 {
+      padding: 5px 17px 5px 0;
+      text-decoration: none;
+      color: #fff;
+      font-weight: 700;
+      text-transform: uppercase;
+      background-color: transparent; }
     .about_class--banner img {
       position: absolute; }
       .about_class--banner img#coppa {
